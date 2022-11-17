@@ -1,0 +1,11 @@
+car={'brand':'TATA','model':'Nexon','year':2000}
+car.pop('brand')
+print(car)
+car.update({'model':'NEXON'})
+print(car)
+x=car.copy()
+print(x)
+y=car.keys()
+print(y)
+z=car.values()
+print(z)
