@@ -11,4 +11,3 @@ for i in list:
             if j=='a':
                 count=count+1
 print(count)
-
